@@ -1,5 +1,9 @@
 # Latihan Teori Graf dengan NetworkX
 
+| Nama | NRP |
+|------|-----|
+|      |     |
+
 ## Cara Menjalankan Project
 1. Buat dan aktifkan virtual environment:
 
