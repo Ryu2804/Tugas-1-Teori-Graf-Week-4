@@ -3,7 +3,7 @@
 
 | Nama | NRP |
 |------|-----|
-|      |     |
+|Benedictus Ryu Gunawan|5054251001|
 
 ## Cara Menjalankan Project
 1. Buat dan aktifkan virtual environment:
@@ -103,4 +103,4 @@ Pastikan semua fungsi bekerja dengan benar dan sesuai spesifikasi!
 
 ---
 
-
+![alt text](image.png)
